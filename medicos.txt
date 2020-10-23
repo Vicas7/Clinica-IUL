@@ -1,0 +1,7 @@
+Ana Correia;12345;dentista;aguiar@gmail.com;4.5;8;0
+Vicente Mourão;93918;cirugião;vicente@gmail.com;0;0;0
+12346;;Geral;email;0;0;0
+12347;;especialista;email;0;0;0
+12346;;geral;email;0;0;0
+12346;;geral;email;0;0;0
+Vicente;12374;geral;email;0;0;0
